@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://latamtwo.vercel.app/"
 languageCode = "en"
 title = "Latamtwo"
 theme = "hargo"
